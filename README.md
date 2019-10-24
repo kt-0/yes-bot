@@ -13,4 +13,4 @@ Information is recorded to/read from excel using the [Pandas](http://pandas.pyda
 
 Currently, the main script uses regex to try and predict whether the comment is violating. The prediction is recorded into excel under the "Proposed" column. This is needed to train a classifier, which is something NLTK uses to make predictions(paraphrasing(badly*)). A decent sample size is needed to properly train a classifier.
 
-*Disclosure: dont remember if left in working state*
+*unsure if left in working state; no intention/interest of updating or maintaining*
